@@ -2,13 +2,7 @@
 
 <html>
 	<head>
-		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<title>Title</title>
-		<meta name="language" content="en" />  
-
-		<meta name="description" content="" />  
-
-		<meta name="keywords" content="" />
+		<title>image</title>
 		<style type="text/css">
 			ul li {list-style: none; margin-bottom: 15px;}
 			ul li img {display: block;}
